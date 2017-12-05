@@ -1,0 +1,34 @@
+#guinea-pig {
+    display: inline-block;
+    margin: .5em auto;
+}
+
+.blueBack {
+    background-color: blue;
+    color: white;
+}
+
+.hulkify {
+    font-size: 1.5em;
+}
+
+.addBorder {
+    border: .3em double aqua; 
+}
+
+.borderRadius {
+    border-radius: 1em;
+}
+
+.sectionText:first-child {
+    font-weight: bold;
+}
+
+.sectionText:last-child {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.blockStyle {
+    display: block;
+}
